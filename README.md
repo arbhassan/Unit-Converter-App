@@ -1,6 +1,5 @@
-# flutter_app
+# Unit Converter App
 
-A new Flutter application.
 
 ## Getting Started
 
